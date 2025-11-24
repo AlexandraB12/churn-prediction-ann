@@ -1,5 +1,6 @@
 # 📊 Churn Prediction — Predicting Customer Attrition with ANN
-**Python Jupyter Notebook**
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ---
 
